@@ -1,6 +1,6 @@
 # KIM MIN JEONG 👩🏻‍💻
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin1275&count_bg=%23BCDEEF&title_bg=%237EB5E7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin1275&count_bg=%23BCDEEF&title_bg=%237EB5E7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![Minjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjeong&show_icons=true&theme=tokyonight)
 
@@ -18,8 +18,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 # :mailbox_with_mail: Contacts
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kmj127500@naver.com)]
-(mailto:kmj127500@naver.com)
+![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kmj127500@naver.com)
 
 <!--
 **min1275/min1275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
